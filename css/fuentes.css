@@ -1,0 +1,10 @@
+@font-face {
+	font-family: "Caviar Dreams";
+	src:url(../fuentes/CaviarDreams.ttf);
+}
+
+
+h1, p{
+	font-family: "Caviar Dreams";
+}
+
